@@ -20,6 +20,6 @@ var funkyFunction = function() {
   }
 }
 
-var theFunk = funkyFunction(); {
-  return funkyFunction()
+var theFunk = function() {
+  return funkyFunction
 }
